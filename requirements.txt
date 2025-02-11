@@ -1,0 +1,6 @@
+streamlit
+folium
+requests
+jsonschema
+shapely
+streamlit-folium
